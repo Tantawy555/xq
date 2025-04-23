@@ -9,6 +9,7 @@ Messages are in plain JSON format, which is wasteful, and extensions by various 
 XQ aims to solve those problems through the following features:
 
 - Using Protocol Buffers, which are in binary format, allows communication to be in a format with a fully pre-defined schema, making the message as small as possible.
+  - Having schema definitions available in a variety of languages is also expected to facilitate application development.
 - Statically-typed-language-friendly structure.
 - Eliminate unnecessary data and boilerplate by focusing on microblogging for its intended use.
   - If it proves to be scalable for other purposes without compromising efficiency, it may be possible to support use cases other than microblogging.
