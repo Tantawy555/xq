@@ -1,4 +1,6 @@
 # XQ (WIP)
+Make federation better!
+
 XQ (pronounced as "clock") is a high-efficiency federation protocol for microblogging.
 
 Protocols such as ActivityPub are widely used and useful, but unfortunately are not the best option when efficiency is important.
