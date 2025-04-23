@@ -1,7 +1,7 @@
 # XQ
 XQ (pronounced as "clock") is a high-efficiency federation protocol for microblogging.
 
-Protocols such as ActivityPub are widely used, but unfortunately they are not efficient protocols.
+Protocols such as ActivityPub are widely used and useful, but unfortunately are not the best option when efficiency is important.
 Messages are in plain JSON format, which is wasteful, and extensions by various implementations complicate the implementation.
 
 XQ aims to solve those problems through the following features:
