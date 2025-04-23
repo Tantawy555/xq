@@ -1,2 +1,2 @@
-# xq
-High-efficiency federation protocol for microblogging (rfc)
+# XQ
+XQ (pronounced as "clock") is a high-efficiency federation protocol for microblogging.
