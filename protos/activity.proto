@@ -1,0 +1,11 @@
+edition = "2023";
+
+package xq;
+
+message Post {
+  string uri = 1;
+}
+
+message Activity {
+  string uri = 1;
+}
