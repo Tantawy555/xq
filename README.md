@@ -1,4 +1,4 @@
-# XQ
+# XQ (WIP)
 XQ (pronounced as "clock") is a high-efficiency federation protocol for microblogging.
 
 Protocols such as ActivityPub are widely used and useful, but unfortunately are not the best option when efficiency is important.
@@ -11,4 +11,6 @@ XQ aims to solve those problems through the following features:
   - If it proves to be scalable for other purposes without compromising efficiency, it may be possible to support use cases other than microblogging.
 - Allows multiple messages to be combined into a single request to reduce overhead.
 
-Note that this protocol is intended to be used primarily for Misskey-to-Misskey communication for efficiency, but any software with a similar concept to Misskey should be able to use it.
+**Note that this protocol is intended to be used primarily for Misskey-to-Misskey communication for efficiency, but any software with a similar concept to Misskey should be able to use it.**
+
+This repository contains specification documentation and .proto definitions.
