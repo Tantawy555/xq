@@ -18,3 +18,34 @@ XQ aims to solve those problems through the following features:
 **Note that this protocol is intended to be used primarily for Misskey-to-Misskey communication for efficiency, but any software with a similar concept to Misskey should be able to use it.**
 
 This repository contains specification documentation and .proto definitions.
+
+## FAQ
+
+### Why was this protocol created?
+
+Thinking up protocols is fun, isn't it?
+
+By reinventing the wheel, we not only gain a better understanding of existing technology, but we also have the potential to make a better wheel than the existing wheel.
+It is through this creative mindset that Misskey was born.
+
+It is true that there is room for improvement in existing protocols.
+
+### The performance benefits of using Protobuf don't seem significant.
+
+As you can see from this README, performance is not the only objective.
+We also emphasize ease of application development.
+
+Also, even if the benefits are “not that significant,” if they are even a little bit significant, it is worth adopting.
+
+### Will it be used in Misskey?
+
+Not at this time.
+Just because we have created a protocol for Misskey does not mean that it must be used with Misskey.
+
+### If requests are processed in batches, won't real-time performance be lost?
+
+Yes. Depending on the interval of batch processing, real-time performance may be lost.
+Since activity bundling is optional in XQ, it is possible to bundle only those messages for which real-time is not critical.
+
+Note that existing protocols are not necessarily more real-time efficient.
+Typical implementations use job queues, and there can be some lag in processing jobs.
